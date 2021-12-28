@@ -1,7 +1,9 @@
 # Activity Recognition in Healthy Older People
 
 Jordan Lanius
+
 CS 4300 - University of Missouri—St. Louis
+
 December 15, 2020
 
 ## Abstract
